@@ -19,4 +19,4 @@ Here's a sample output
 ![image](https://github.com/user-attachments/assets/be855701-75a2-405c-997c-3b94ce4e99d5)
 
 ## References
-[Ceasar cipher Geeksforgeeks](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
+[Caesar cipher Geeksforgeeks](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
