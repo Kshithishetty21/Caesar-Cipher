@@ -1,4 +1,4 @@
-# Ceasar-Cipher
+# Caesar-Cipher
 This Python script implements a simple Caesar cipher, which is a type of substitution cipher. It allows you to encrypt and decrypt messages using a numerical key. The Caesar cipher shifts each letter in the plaintext by a fixed number of positions down the alphabet.
 Encryption: Converts plaintext into ciphertext using a specified key.
 Decryption: Converts ciphertext back into plaintext using the same key.
